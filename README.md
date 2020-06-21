@@ -1,4 +1,4 @@
-# Mern wtack Todolist
+# Mern stack Todolist
 
 A project to test out
 
